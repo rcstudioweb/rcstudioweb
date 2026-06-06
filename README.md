@@ -7,11 +7,11 @@
 
 - 👯 Estou em busca de colaborar em projetos de **Sites, SaaS, Micro SaaS e etc**
 
-- 👨‍💻 Alguns projetos públicos estão disponíveis em [https://portifoliorcstudio.vercel.app/](https://portifoliorcstudio.vercel.app/)
+- 👨‍💻 Alguns projetos públicos estão disponíveis em: [https://portifoliorcstudio.vercel.app/](https://portifoliorcstudio.vercel.app/)
 
-- 📫 Você pode me contatar por aqui **https://portifoliorcstudio.vercel.app/**
+- 📫 Você pode me contatar por aqui: **https://portifoliorcstudio.vercel.app/**
 
-- ⚡ Fato divertido **Programo desde os 11 anos de idade(graças ao Roblox)**
+- ⚡ Fato divertido: **Programo desde os 11 anos de idade(graças ao Roblox)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
