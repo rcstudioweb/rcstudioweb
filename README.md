@@ -1,5 +1,5 @@
 <h1 align="center">Olá👋, Meu nome é Rykson</h1>
-<h3 align="center">Um desenvolvedor Júnior Full Stack de 17 apaixonado pela área</h3>
+<h3 align="center">Um desenvolvedor Júnior Full Stack de 17 anos apaixonado pela área</h3>
 
 - 🔭 Estou atualmente trabalhando na plataforma de licitações **LicitaMais**
 
